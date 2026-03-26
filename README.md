@@ -101,3 +101,11 @@ This project shows how small daily habits affect productivity. It combines basic
 It is especially helpful for students to become more aware of their routine and improve their performance.
 
 ✨ Thank you for checking out this project!
+
+<img width="1897" height="883" alt="output screenshot 1" src="https://github.com/user-attachments/assets/5aebeef1-45f9-47b7-abd3-9c5215b072f1" />
+<img width="1920" height="957" alt="output screenshot 2" src="https://github.com/user-attachments/assets/a5697469-02d1-44ee-8f05-8f06fd1fccda" />
+
+
+
+
+
